@@ -1,6 +1,6 @@
 # Proyecto Clase Git
 
-## Por: Breyner Arcos - Daniel Esquivel
+## Por: Breyner Alexis Arcos Sanchez- Daniel Esquivel
 
 ### Tecnologia en sistemas de Información
 
